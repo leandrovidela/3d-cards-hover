@@ -14,4 +14,4 @@ Podes ver mi portfolio [aquí](http://leandrovidela.com/)
 
 ## DEMO
 
-[DEMO](http://leandrovidela.com/))
+[DEMO](http://leandrovidela.com/tutorials/3d-card/)
